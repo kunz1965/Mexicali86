@@ -47,7 +47,7 @@ var APP_DATA = {
     },
     {
       "id": "1-recepcin",
-      "name": "Recepción",
+      "name": "Recepción de Oficina",
       "levels": [
         {
           "tileSize": 256,
